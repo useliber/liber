@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use LIBER, the .liber format, or its library, please cite it as below."
+title: "LIBER: The Decision Knowledge Layer for the AI Era"
+abstract: >-
+  LIBER is the first open decision knowledge layer for the AI ecosystem. It turns
+  scattered, decaying knowledge of which option to choose into living, structured,
+  machine-readable artifacts — .liber files — that map a decision landscape (options,
+  trade-offs, and the contexts that shift which option fits) for both humans and AI agents
+  at the moment of decision. This record covers the .liber format specification (FORMAT)
+  and the library of decision-knowledge files (LIBRARY).
+type: software
+authors:
+  - family-names: "Zieliński"
+    given-names: "Przemysław"
+    # Creator and architect of LIBER (technology, product, quality)
+  - family-names: "Luty"
+    given-names: "Krzysztof"
+    # Co-founder; commercialization and distribution
+version: "0.1.0"
+date-released: "2026-06-01"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/useliber/liber"
+url: "https://github.com/useliber/liber"
+keywords:
+  - "decision intelligence"
+  - "decision knowledge layer"
+  - "knowledge layer"
+  - "AI agents"
+  - "agentic AI"
+  - "Model Context Protocol"
+  - "MCP"
+  - "decision-making"
+  - "EU AI Act"
+  - "open standard"

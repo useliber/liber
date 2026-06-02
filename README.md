@@ -12,7 +12,7 @@
 [![Spec](https://img.shields.io/badge/spec-v0.4.0--draft-8B6FCC.svg)](./SPEC.md)
 [![Version](https://img.shields.io/badge/version-0.1.0-3FA9B8.svg)](https://github.com/useliber/liber/releases)
 [![Status](https://img.shields.io/badge/status-pre--final-D4A538.svg)](#status--wydanie-pre-final--status--pre-final-edition)
-[![DOI](https://zenodo.org/badge/1256513495.svg)](https://doi.org/10.5281/zenodo.20498955)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20498955-blue.svg)](https://doi.org/10.5281/zenodo.20498955)
 
 **PL:** Pierwsza otwarta *warstwa wiedzy decyzyjnej* dla ekosystemu AI. Nie dokumentacja „jak", lecz krajobraz „którą opcję i dlaczego".
 **EN:** The first open *decision knowledge layer* for the AI ecosystem. Not "how-to" documentation, but a landscape of "which option, and why."
